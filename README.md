@@ -672,8 +672,11 @@ MediInsight builds on this research direction by exploring a broader multi-condi
 ## 👨‍💻 Project Team
 
 **Karanjot Buttar**  
+
 **Chander Prakash**
+
 **Divya**
+
 B.Tech Information Technology  
 Government Engineering College Bikaner
 
